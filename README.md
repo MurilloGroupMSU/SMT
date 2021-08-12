@@ -1,4 +1,4 @@
-# SMT
+# SMT Web App
 The Stanton-Murillo Transport (SMT) model in web app form.
 ```
 Ionic transport in high-energy-density matter
